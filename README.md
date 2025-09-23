@@ -81,12 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beatrizodsk&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
-## 🎯 Current Focus
-- 🔍 Exploring advanced Android architecture patterns (MVVM, Clean Architecture)
-- 🚀 Learning Jetpack Compose for modern Android UI development  
-- 📱 Building scalable mobile solutions for enterprise applications
-- 🤝 Contributing to open-source mobile development projects
-
 ## 📫 Let's Connect!
 
 <div align="center"> 
