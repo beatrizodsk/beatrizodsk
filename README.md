@@ -4,12 +4,6 @@
 - 🚀 Experience in full-stack development
 - 💡 Always exploring new technologies and best practices in software engineering
 
-<div align="center">
-  <a href="https://github.com/beatrizodsk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizodsk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizodsk&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
 ## 💻 Tech Stack
 
 ### 📱 Mobile Development
