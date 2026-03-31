@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Beatriz Santos
+# 👋 Hey, I'm Beatriz Timbo
 - 🔭 Software Engineer specializing in Mobile & Web Development
 - 📱 Passionate about building scalable Android/iOS applications and cross-platform solutions
 - 🚀 Experience in full-stack development
